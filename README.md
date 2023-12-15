@@ -2,7 +2,7 @@
 
 ## A p5.js art experiment
 
-Use it: https://watchgrass.benbodhi.energy
+Use it: [https://watchgrass.benbodhi.energy](https://watchgrass.benbodhi.energy)
 
 This is my first experiment with making generative art using p5.js
 

@@ -18,10 +18,10 @@ body {
 }
 
 #canvasContainer {
-    height: 73vw;
-    width: 73vw;
-    max-height: 73vw;
-    max-width: 73vw;
+    height: 55vw;
+    width: 55vw;
+    max-height: 55vw;
+    max-width: 55vw;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -74,7 +74,7 @@ footer#credit a:hover {
     }
 }
 
-@media (max-width: 300px) {
+@media (max-width: 589px) {
     #controls button {
         width: 80vw;
     }
