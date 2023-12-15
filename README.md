@@ -10,7 +10,7 @@ Make and watch the grass grow, generate countless random combinations of blades 
 
 ## The NFT
 
-I minted this generator as an NFT on Zora!
-`link`
+I dropped this generator as an NFT on Zora!
+**[MINT IT](https://zora.co/collect/zora:0x339d3cf921ef7fa5e9727c6f1f958279486e94be/1?referrer=0xa903C06BF35286f6d1cDAD25396748353979a44C)**
 
-One day I might figure out how to make tthis into an NFT that mints the contents of the canvas so collectors can generate their own grass.
+One day I might figure out how to make this into an NFT that mints the contents of the canvas so collectors can generate their own grass.
